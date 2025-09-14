@@ -41,6 +41,6 @@ To get a local copy up and running, follow these simple steps.
 -   `script.js`: The JavaScript file for any interactive functionality.
 -   `piyush4.jpg`: My profile picture used on the hero section.
 
-## Customization
+## Screenshot
 
-Feel free
+<img width="1760" height="867" alt="image" src="https://github.com/user-attachments/assets/e9b528e7-96a2-47b6-b02f-7e8748231340" />
